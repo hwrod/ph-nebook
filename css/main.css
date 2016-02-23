@@ -1,0 +1,18 @@
+.glyphicon-sort {
+    font-size: 80%;
+    color: #666;
+}
+.table th, .table .glyphicon {
+    cursor: pointer;
+}
+a.sort {
+    color: inherit;
+    text-decoration: none;
+}
+.tt-menu {
+background: white;
+border-radius: 6px;
+border: 1px solid #888;
+padding: 10px;
+width: 100%;
+}
